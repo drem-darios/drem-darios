@@ -15,7 +15,7 @@
 <br>
 <br>
 ## Expertise
-<img align="left" alt="java" src="https://img.shields.io/badge/react%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB" />
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="serverless" src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" />
